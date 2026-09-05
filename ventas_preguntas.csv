@@ -1,0 +1,501 @@
+﻿id_venta,fecha,producto,ciudad,canal,vendedor,cantidad,precio_unit,descuento,devolucion,total_venta
+1,2024-01-01,Audífonos,Bogotá,Tienda Física,Camila Herrera,25,1552.83,0.17,False,32221.22
+2,2024-01-02,Audífonos,Bucaramanga,Distribuidor,Andrés Gómez,17,576.3,0.25,False,7347.82
+3,2024-01-03,Mouse,Bucaramanga,Tienda Física,Camila Herrera,2,1844.04,0.0,False,3688.08
+4,2024-01-04,Celular,Medellín,Tienda Física,Andrés Gómez,20,157.93,0.02,False,3095.43
+5,2024-01-05,Tablet,Bogotá,Tienda Física,Andrés Gómez,2,473.18,0.29,False,671.92
+6,2024-01-06,Smartwatch,Barranquilla,Tienda Física,Valeria Torres,24,603.27,0.35,False,9411.01
+7,2024-01-07,Mouse,Bogotá,Tienda Física,Laura Jiménez,18,198.31,0.08,False,3284.01
+8,2024-01-08,Celular,Bogotá,Online,Andrés Gómez,10,505.6,0.14,False,4348.16
+9,2024-01-09,Laptop,Bogotá,Distribuidor,Valeria Torres,12,1578.58,0.25,False,14207.22
+10,2024-01-10,Celular,Bogotá,Online,Laura Jiménez,2,549.12,0.23,False,845.64
+11,2024-01-11,Smartwatch,Bucaramanga,Tienda Física,Andrés Gómez,5,1023.1,0.27,False,3734.32
+12,2024-01-12,Laptop,Bucaramanga,Distribuidor,Diego Vargas,25,288.0,0.32,False,4896.0
+13,2024-01-13,Laptop,Bogotá,Distribuidor,Laura Jiménez,27,1191.54,0.09,False,29276.14
+14,2024-01-14,Smartwatch,Medellín,Online,Laura Jiménez,14,1229.52,0.18,False,14114.89
+15,2024-01-15,Tablet,Medellín,Distribuidor,Camila Herrera,11,452.16,0.05,False,4725.07
+16,2024-01-16,Monitor,Bogotá,Online,Laura Jiménez,28,167.81,0.34,False,3101.13
+17,2024-01-17,Laptop,Barranquilla,Tienda Física,Diego Vargas,28,1409.53,0.27,False,28810.79
+18,2024-01-18,Laptop,Bucaramanga,Online,Valeria Torres,19,1274.2,0.07,False,22515.11
+19,2024-01-19,Monitor,Cali,Online,Camila Herrera,13,974.86,0.26,False,9378.15
+20,2024-01-20,Celular,Barranquilla,Online,Valeria Torres,17,1792.94,0.28,False,21945.59
+21,2024-01-21,Impresora,Bucaramanga,Tienda Física,Andrés Gómez,29,1954.99,0.05,False,53859.97
+22,2024-01-22,Tablet,Cali,Online,Laura Jiménez,27,1470.14,0.17,False,32945.84
+23,2024-01-23,Audífonos,Medellín,Distribuidor,Valeria Torres,14,1925.3,0.29,False,19137.48
+24,2024-01-24,Monitor,Medellín,Online,Camila Herrera,19,311.35,0.12,True,5205.77
+25,2024-01-25,Impresora,Bucaramanga,Distribuidor,Valeria Torres,25,335.9,0.02,False,8229.55
+26,2024-01-26,Audífonos,Bucaramanga,Distribuidor,Valeria Torres,16,1998.15,0.12,False,28133.95
+27,2024-01-27,Monitor,Cali,Tienda Física,Valeria Torres,24,765.55,0.27,False,13412.44
+28,2024-01-28,Cámara,Medellín,Online,Andrés Gómez,17,1127.73,0.04,False,18404.55
+29,2024-01-29,Laptop,Barranquilla,Online,Camila Herrera,14,1890.57,0.11,True,23556.5
+30,2024-01-30,Impresora,Medellín,Distribuidor,Andrés Gómez,20,1215.87,0.3,False,17022.18
+31,2024-01-31,Smartwatch,Cali,Distribuidor,Camila Herrera,14,1742.68,0.06,False,22933.67
+32,2024-02-01,Tablet,Medellín,Distribuidor,Laura Jiménez,20,1420.45,0.14,False,24431.74
+33,2024-02-02,Monitor,Barranquilla,Online,Diego Vargas,5,1714.64,0.19,False,6944.29
+34,2024-02-03,Mouse,Medellín,Tienda Física,Andrés Gómez,27,951.19,0.06,False,24141.2
+35,2024-02-04,Celular,Barranquilla,Online,Andrés Gómez,6,1899.77,0.25,False,8548.96
+36,2024-02-05,Teclado,Bogotá,Distribuidor,Diego Vargas,29,268.02,0.27,False,5673.98
+37,2024-02-06,Mouse,Barranquilla,Tienda Física,Diego Vargas,12,1619.19,0.22,False,15155.62
+38,2024-02-07,Audífonos,Barranquilla,Tienda Física,Camila Herrera,26,485.88,0.3,False,8843.02
+39,2024-02-08,Celular,Bucaramanga,Online,Camila Herrera,25,1245.25,0.05,False,29574.69
+40,2024-02-09,Cámara,Medellín,Online,Valeria Torres,27,1557.0,0.0,False,42039.0
+41,2024-02-10,Tablet,Medellín,Distribuidor,Valeria Torres,15,1407.98,0.09,False,19218.93
+42,2024-02-11,Teclado,Bucaramanga,Tienda Física,Laura Jiménez,11,890.42,0.29,False,6954.18
+43,2024-02-12,Laptop,Medellín,Tienda Física,Diego Vargas,26,1862.09,0.04,True,46477.77
+44,2024-02-13,Audífonos,Bogotá,Online,Diego Vargas,7,340.42,0.27,False,1739.55
+45,2024-02-14,Mouse,Cali,Tienda Física,Laura Jiménez,6,1445.62,0.33,False,5811.39
+46,2024-02-15,Audífonos,Medellín,Online,Camila Herrera,24,521.3,0.2,True,10008.96
+47,2024-02-16,Monitor,Barranquilla,Tienda Física,Valeria Torres,27,1382.17,0.31,False,25749.83
+48,2024-02-17,Monitor,Bogotá,Online,Valeria Torres,23,397.43,0.09,False,8318.21
+49,2024-02-18,Mouse,Barranquilla,Distribuidor,Camila Herrera,3,114.61,0.25,False,257.87
+50,2024-02-19,Tablet,Barranquilla,Distribuidor,Diego Vargas,15,1573.89,0.27,False,17234.1
+51,2024-02-20,Laptop,Bogotá,Tienda Física,Valeria Torres,18,1638.54,0.17,False,24479.79
+52,2024-02-21,Mouse,Bogotá,Online,Diego Vargas,12,341.61,0.21,False,3238.46
+53,2024-02-22,Monitor,Medellín,Online,Laura Jiménez,17,1618.06,0.03,False,26681.81
+54,2024-02-23,Impresora,Cali,Distribuidor,Valeria Torres,4,669.52,0.1,False,2410.27
+55,2024-02-24,Mouse,Barranquilla,Online,Laura Jiménez,18,1150.87,0.03,False,20094.19
+56,2024-02-25,Impresora,Barranquilla,Tienda Física,Diego Vargas,21,1211.73,0.08,False,23410.62
+57,2024-02-26,Celular,Bogotá,Distribuidor,Diego Vargas,23,1828.99,0.31,False,29026.07
+58,2024-02-27,Teclado,Cali,Distribuidor,Laura Jiménez,15,1149.06,0.01,False,17063.54
+59,2024-02-28,Impresora,Barranquilla,Distribuidor,Diego Vargas,23,1740.53,0.17,False,33226.72
+60,2024-02-29,Smartwatch,Bogotá,Tienda Física,Andrés Gómez,25,854.61,0.18,False,17519.5
+61,2024-03-01,Audífonos,Medellín,Online,Valeria Torres,14,1313.28,0.1,True,16547.33
+62,2024-03-02,Monitor,Medellín,Online,Diego Vargas,21,399.1,0.27,False,6118.2
+63,2024-03-03,Cámara,Bucaramanga,Tienda Física,Camila Herrera,3,1430.18,0.21,False,3389.53
+64,2024-03-04,Celular,Bucaramanga,Online,Camila Herrera,23,1856.95,0.07,False,39720.16
+65,2024-03-05,Audífonos,Medellín,Tienda Física,Laura Jiménez,15,865.81,0.16,False,10909.21
+66,2024-03-06,Celular,Bogotá,Distribuidor,Camila Herrera,25,1301.63,0.01,False,32215.34
+67,2024-03-07,Celular,Bogotá,Tienda Física,Diego Vargas,5,1097.71,0.01,True,5433.66
+68,2024-03-08,Tablet,Bucaramanga,Distribuidor,Diego Vargas,6,48.71,0.26,False,216.27
+69,2024-03-09,Teclado,Cali,Distribuidor,Laura Jiménez,7,1817.41,0.06,False,11958.56
+70,2024-03-10,Smartwatch,Medellín,Online,Valeria Torres,21,1622.39,0.34,False,22486.33
+71,2024-03-11,Laptop,Cali,Online,Valeria Torres,29,842.66,0.13,False,21260.31
+72,2024-03-12,Cámara,Bucaramanga,Online,Valeria Torres,8,200.12,0.24,False,1216.73
+73,2024-03-13,Celular,Cali,Online,Diego Vargas,11,716.16,0.16,True,6617.32
+74,2024-03-14,Mouse,Bogotá,Online,Camila Herrera,23,1060.77,0.14,False,20982.03
+75,2024-03-15,Tablet,Barranquilla,Online,Laura Jiménez,17,503.46,0.23,False,6590.29
+76,2024-03-16,Tablet,Barranquilla,Online,Andrés Gómez,28,1668.36,0.22,False,36436.98
+77,2024-03-17,Teclado,Cali,Distribuidor,Diego Vargas,11,605.04,0.31,False,4592.25
+78,2024-03-18,Smartwatch,Barranquilla,Distribuidor,Diego Vargas,23,425.77,0.03,False,9498.93
+79,2024-03-19,Impresora,Cali,Tienda Física,Laura Jiménez,17,362.27,0.18,False,5050.04
+80,2024-03-20,Smartwatch,Medellín,Online,Camila Herrera,5,1458.01,0.21,True,5759.14
+81,2024-03-21,Audífonos,Bucaramanga,Tienda Física,Andrés Gómez,10,1102.31,0.23,True,8487.79
+82,2024-03-22,Tablet,Cali,Online,Camila Herrera,18,1398.03,0.22,False,19628.34
+83,2024-03-23,Tablet,Bogotá,Online,Andrés Gómez,27,594.88,0.13,False,13973.73
+84,2024-03-24,Tablet,Bucaramanga,Distribuidor,Camila Herrera,20,812.01,0.01,False,16077.8
+85,2024-03-25,Cámara,Bogotá,Distribuidor,Valeria Torres,23,1793.3,0.25,False,30934.43
+86,2024-03-26,Mouse,Barranquilla,Tienda Física,Valeria Torres,28,674.2,0.02,False,18500.05
+87,2024-03-27,Smartwatch,Medellín,Distribuidor,Andrés Gómez,17,1807.84,0.16,False,25815.96
+88,2024-03-28,Impresora,Barranquilla,Tienda Física,Diego Vargas,10,1933.25,0.25,True,14499.38
+89,2024-03-29,Mouse,Medellín,Online,Valeria Torres,21,58.68,0.1,False,1109.05
+90,2024-03-30,Tablet,Cali,Online,Laura Jiménez,12,998.58,0.01,False,11863.13
+91,2024-03-31,Smartwatch,Bucaramanga,Online,Laura Jiménez,12,1251.67,0.03,False,14569.44
+92,2024-04-01,Mouse,Bogotá,Distribuidor,Camila Herrera,2,44.75,0.05,True,85.02
+93,2024-04-02,Mouse,Cali,Distribuidor,Valeria Torres,21,713.33,0.23,False,11534.55
+94,2024-04-03,Mouse,Bogotá,Distribuidor,Diego Vargas,7,75.53,0.23,False,407.11
+95,2024-04-04,Celular,Medellín,Distribuidor,Camila Herrera,25,1240.65,0.34,False,20470.72
+96,2024-04-05,Tablet,Bogotá,Distribuidor,Laura Jiménez,24,937.05,0.11,True,20015.39
+97,2024-04-06,Monitor,Barranquilla,Tienda Física,Camila Herrera,9,540.57,0.05,False,4621.87
+98,2024-04-07,Tablet,Bogotá,Online,Andrés Gómez,22,1559.63,0.06,False,32253.15
+99,2024-04-08,Celular,Medellín,Distribuidor,Camila Herrera,25,1094.97,0.01,False,27100.51
+100,2024-04-09,Laptop,Bogotá,Tienda Física,Camila Herrera,9,678.21,0.29,False,4333.76
+101,2024-04-10,Teclado,Bucaramanga,Online,Diego Vargas,24,1871.9,0.03,False,43577.83
+102,2024-04-11,Cámara,Medellín,Online,Valeria Torres,15,1952.15,0.31,False,20204.75
+103,2024-04-12,Mouse,Bucaramanga,Distribuidor,Laura Jiménez,23,381.15,0.02,False,8591.12
+104,2024-04-13,Cámara,Cali,Online,Camila Herrera,18,1957.22,0.28,False,25365.57
+105,2024-04-14,Smartwatch,Bucaramanga,Distribuidor,Valeria Torres,9,1183.46,0.07,False,9905.56
+106,2024-04-15,Celular,Cali,Online,Laura Jiménez,23,1753.21,0.01,False,39920.59
+107,2024-04-16,Laptop,Medellín,Online,Diego Vargas,26,597.17,0.25,False,11644.81
+108,2024-04-17,Tablet,Bogotá,Tienda Física,Camila Herrera,28,112.28,0.0,False,3143.84
+109,2024-04-18,Celular,Medellín,Tienda Física,Valeria Torres,26,44.92,0.1,False,1051.13
+110,2024-04-19,Tablet,Barranquilla,Tienda Física,Camila Herrera,11,873.24,0.02,False,9413.53
+111,2024-04-20,Monitor,Medellín,Distribuidor,Andrés Gómez,15,29.01,0.04,False,417.74
+112,2024-04-21,Impresora,Medellín,Distribuidor,Valeria Torres,27,902.05,0.04,False,23381.14
+113,2024-04-22,Mouse,Barranquilla,Tienda Física,Camila Herrera,12,1493.06,0.25,False,13437.54
+114,2024-04-23,Celular,Barranquilla,Tienda Física,Andrés Gómez,29,1343.3,0.34,False,25710.76
+115,2024-04-24,Monitor,Medellín,Distribuidor,Camila Herrera,22,1469.27,0.09,False,29414.79
+116,2024-04-25,Tablet,Barranquilla,Distribuidor,Camila Herrera,11,1197.27,0.14,False,11326.17
+117,2024-04-26,Tablet,Medellín,Online,Camila Herrera,7,1908.9,0.13,False,11625.2
+118,2024-04-27,Impresora,Medellín,Distribuidor,Laura Jiménez,10,495.4,0.09,False,4508.14
+119,2024-04-28,Mouse,Barranquilla,Distribuidor,Camila Herrera,6,1809.58,0.25,False,8143.11
+120,2024-04-29,Cámara,Cali,Online,Laura Jiménez,4,1963.82,0.09,False,7148.3
+121,2024-04-30,Mouse,Barranquilla,Online,Camila Herrera,21,27.03,0.18,False,465.46
+122,2024-05-01,Monitor,Bogotá,Distribuidor,Laura Jiménez,11,873.65,0.05,False,9129.64
+123,2024-05-02,Monitor,Cali,Tienda Física,Camila Herrera,6,1358.62,0.3,False,5706.2
+124,2024-05-03,Impresora,Bogotá,Tienda Física,Andrés Gómez,21,1236.78,0.24,False,19739.01
+125,2024-05-04,Laptop,Barranquilla,Tienda Física,Diego Vargas,17,1978.7,0.19,False,27246.7
+126,2024-05-05,Laptop,Barranquilla,Tienda Física,Diego Vargas,9,1327.53,0.21,False,9438.74
+127,2024-05-06,Smartwatch,Medellín,Tienda Física,Valeria Torres,1,1242.54,0.08,False,1143.14
+128,2024-05-07,Cámara,Bogotá,Online,Camila Herrera,11,1854.13,0.3,False,14276.8
+129,2024-05-08,Cámara,Barranquilla,Tienda Física,Valeria Torres,5,1806.19,0.04,False,8669.71
+130,2024-05-09,Monitor,Barranquilla,Online,Andrés Gómez,23,1671.69,0.31,False,26529.72
+131,2024-05-10,Cámara,Barranquilla,Online,Laura Jiménez,19,826.6,0.21,False,12407.27
+132,2024-05-11,Mouse,Bogotá,Distribuidor,Camila Herrera,5,1401.05,0.33,False,4693.52
+133,2024-05-12,Celular,Barranquilla,Distribuidor,Andrés Gómez,18,1912.88,0.1,False,30988.66
+134,2024-05-13,Mouse,Bucaramanga,Distribuidor,Valeria Torres,15,494.97,0.33,False,4974.45
+135,2024-05-14,Cámara,Bucaramanga,Distribuidor,Camila Herrera,26,986.2,0.22,False,20000.14
+136,2024-05-15,Impresora,Barranquilla,Online,Diego Vargas,3,1519.99,0.0,False,4559.97
+137,2024-05-16,Smartwatch,Cali,Tienda Física,Andrés Gómez,29,1203.58,0.04,False,33507.67
+138,2024-05-17,Celular,Bogotá,Distribuidor,Camila Herrera,26,1571.82,0.21,False,32285.18
+139,2024-05-18,Impresora,Medellín,Online,Andrés Gómez,13,542.74,0.03,False,6843.95
+140,2024-05-19,Celular,Cali,Tienda Física,Camila Herrera,24,279.03,0.26,False,4955.57
+141,2024-05-20,Impresora,Bucaramanga,Distribuidor,Valeria Torres,2,953.0,0.24,False,1448.56
+142,2024-05-21,Smartwatch,Bogotá,Tienda Física,Camila Herrera,21,1336.33,0.07,False,26098.52
+143,2024-05-22,Cámara,Medellín,Distribuidor,Diego Vargas,27,1203.14,0.22,False,25338.13
+144,2024-05-23,Impresora,Bucaramanga,Online,Andrés Gómez,16,1229.14,0.2,False,15732.99
+145,2024-05-24,Celular,Barranquilla,Tienda Física,Valeria Torres,22,203.47,0.09,False,4073.47
+146,2024-05-25,Tablet,Barranquilla,Distribuidor,Andrés Gómez,16,992.81,0.25,False,11913.72
+147,2024-05-26,Celular,Medellín,Online,Andrés Gómez,15,420.88,0.09,False,5745.01
+148,2024-05-27,Cámara,Bogotá,Online,Valeria Torres,3,1427.14,0.3,False,2996.99
+149,2024-05-28,Impresora,Medellín,Tienda Física,Laura Jiménez,14,1125.67,0.14,False,13553.07
+150,2024-05-29,Teclado,Medellín,Tienda Física,Camila Herrera,22,1209.54,0.17,False,22086.2
+151,2024-05-30,Celular,Cali,Distribuidor,Camila Herrera,28,1199.22,0.23,False,25855.18
+152,2024-05-31,Audífonos,Barranquilla,Distribuidor,Diego Vargas,2,626.3,0.31,False,864.29
+153,2024-06-01,Teclado,Barranquilla,Tienda Física,Camila Herrera,9,185.07,0.16,False,1399.13
+154,2024-06-02,Audífonos,Bucaramanga,Tienda Física,Diego Vargas,12,837.92,0.23,False,7742.38
+155,2024-06-03,Audífonos,Cali,Tienda Física,Laura Jiménez,17,609.53,0.21,False,8185.99
+156,2024-06-04,Smartwatch,Barranquilla,Tienda Física,Camila Herrera,8,1148.02,0.03,False,8908.64
+157,2024-06-05,Tablet,Cali,Online,Camila Herrera,26,461.81,0.22,False,9365.51
+158,2024-06-06,Audífonos,Bogotá,Distribuidor,Valeria Torres,11,462.93,0.02,False,4990.39
+159,2024-06-07,Mouse,Cali,Distribuidor,Diego Vargas,23,663.81,0.18,False,12519.46
+160,2024-06-08,Impresora,Barranquilla,Distribuidor,Diego Vargas,8,363.18,0.04,False,2789.22
+161,2024-06-09,Smartwatch,Medellín,Distribuidor,Valeria Torres,1,815.98,0.21,False,644.62
+162,2024-06-10,Celular,Bogotá,Distribuidor,Camila Herrera,19,1651.55,0.25,False,23534.59
+163,2024-06-11,Tablet,Bogotá,Online,Andrés Gómez,4,1706.97,0.28,False,4916.07
+164,2024-06-12,Cámara,Barranquilla,Online,Camila Herrera,20,234.33,0.21,True,3702.41
+165,2024-06-13,Tablet,Cali,Tienda Física,Valeria Torres,15,674.85,0.35,False,6579.79
+166,2024-06-14,Impresora,Medellín,Distribuidor,Camila Herrera,27,1234.16,0.13,False,28990.42
+167,2024-06-15,Smartwatch,Barranquilla,Distribuidor,Camila Herrera,13,469.36,0.0,False,6101.68
+168,2024-06-16,Smartwatch,Bogotá,Online,Valeria Torres,18,1840.56,0.29,False,23522.36
+169,2024-06-17,Tablet,Bogotá,Distribuidor,Laura Jiménez,5,1419.13,0.16,False,5960.35
+170,2024-06-18,Tablet,Bogotá,Tienda Física,Laura Jiménez,12,456.17,0.19,False,4433.97
+171,2024-06-19,Teclado,Bogotá,Distribuidor,Valeria Torres,16,231.23,0.3,False,2589.78
+172,2024-06-20,Mouse,Bogotá,Distribuidor,Diego Vargas,18,166.08,0.09,True,2720.39
+173,2024-06-21,Laptop,Cali,Distribuidor,Camila Herrera,21,392.19,0.11,False,7330.03
+174,2024-06-22,Cámara,Medellín,Tienda Física,Camila Herrera,1,803.18,0.03,False,779.08
+175,2024-06-23,Impresora,Cali,Tienda Física,Laura Jiménez,21,1506.56,0.24,False,24044.7
+176,2024-06-24,Impresora,Medellín,Online,Diego Vargas,27,299.18,0.07,False,7512.41
+177,2024-06-25,Monitor,Cali,Distribuidor,Diego Vargas,25,92.2,0.3,False,1613.5
+178,2024-06-26,Monitor,Barranquilla,Online,Laura Jiménez,23,1785.57,0.21,False,32443.81
+179,2024-06-27,Teclado,Bogotá,Tienda Física,Laura Jiménez,27,684.04,0.32,False,12558.97
+180,2024-06-28,Laptop,Barranquilla,Tienda Física,Camila Herrera,25,674.12,0.02,False,16515.94
+181,2024-06-29,Cámara,Medellín,Distribuidor,Andrés Gómez,20,1059.71,0.35,True,13776.23
+182,2024-06-30,Smartwatch,Medellín,Online,Valeria Torres,26,851.26,0.14,False,19034.17
+183,2024-07-01,Audífonos,Bucaramanga,Tienda Física,Camila Herrera,14,604.56,0.19,False,6855.71
+184,2024-07-02,Teclado,Bogotá,Tienda Física,Camila Herrera,1,1436.85,0.23,False,1106.37
+185,2024-07-03,Celular,Bogotá,Online,Camila Herrera,20,1588.49,0.17,False,26368.93
+186,2024-07-04,Teclado,Medellín,Online,Andrés Gómez,4,1656.03,0.18,False,5431.78
+187,2024-07-05,Smartwatch,Bucaramanga,Tienda Física,Valeria Torres,18,1544.66,0.15,False,23633.3
+188,2024-07-06,Audífonos,Bogotá,Distribuidor,Camila Herrera,7,1387.05,0.07,False,9029.7
+189,2024-07-07,Monitor,Bogotá,Distribuidor,Camila Herrera,16,402.16,0.34,False,4246.81
+190,2024-07-08,Tablet,Barranquilla,Distribuidor,Laura Jiménez,18,1468.67,0.28,False,19033.96
+191,2024-07-09,Laptop,Cali,Distribuidor,Laura Jiménez,1,563.93,0.21,False,445.5
+192,2024-07-10,Tablet,Bucaramanga,Online,Camila Herrera,28,1449.2,0.02,False,39766.05
+193,2024-07-11,Impresora,Medellín,Tienda Física,Camila Herrera,24,213.77,0.31,False,3540.03
+194,2024-07-12,Impresora,Cali,Tienda Física,Diego Vargas,4,857.57,0.03,False,3327.37
+195,2024-07-13,Audífonos,Barranquilla,Distribuidor,Laura Jiménez,18,798.18,0.27,False,10488.09
+196,2024-07-14,Teclado,Medellín,Tienda Física,Diego Vargas,27,92.67,0.02,False,2452.05
+197,2024-07-15,Celular,Medellín,Online,Valeria Torres,23,1770.36,0.27,False,29724.34
+198,2024-07-16,Impresora,Barranquilla,Tienda Física,Andrés Gómez,2,1359.43,0.3,False,1903.2
+199,2024-07-17,Teclado,Bogotá,Tienda Física,Diego Vargas,11,1560.95,0.16,False,14423.18
+200,2024-07-18,Smartwatch,Bogotá,Tienda Física,Valeria Torres,27,1338.13,0.19,False,29264.9
+201,2024-07-19,Celular,Cali,Distribuidor,Diego Vargas,5,699.14,0.29,True,2481.95
+202,2024-07-20,Audífonos,Bucaramanga,Distribuidor,Valeria Torres,11,1023.45,0.34,False,7430.25
+203,2024-07-21,Cámara,Bogotá,Tienda Física,Diego Vargas,6,274.92,0.01,False,1633.02
+204,2024-07-22,Teclado,Bucaramanga,Online,Andrés Gómez,22,340.0,0.05,False,7106.0
+205,2024-07-23,Laptop,Medellín,Tienda Física,Valeria Torres,2,661.66,0.3,False,926.32
+206,2024-07-24,Smartwatch,Barranquilla,Online,Camila Herrera,1,1294.5,0.24,False,983.82
+207,2024-07-25,Tablet,Cali,Online,Diego Vargas,12,1207.2,0.1,False,13037.76
+208,2024-07-26,Tablet,Bogotá,Online,Camila Herrera,2,1555.02,0.16,False,2612.43
+209,2024-07-27,Tablet,Cali,Online,Valeria Torres,9,1073.67,0.04,False,9276.51
+210,2024-07-28,Celular,Bucaramanga,Distribuidor,Laura Jiménez,11,1357.83,0.01,False,14786.77
+211,2024-07-29,Impresora,Barranquilla,Tienda Física,Valeria Torres,29,106.89,0.26,False,2293.86
+212,2024-07-30,Mouse,Bucaramanga,Online,Laura Jiménez,10,1867.93,0.25,False,14009.47
+213,2024-07-31,Tablet,Cali,Online,Andrés Gómez,6,1695.45,0.24,False,7731.25
+214,2024-08-01,Celular,Medellín,Tienda Física,Andrés Gómez,20,1874.5,0.31,True,25868.1
+215,2024-08-02,Impresora,Medellín,Online,Camila Herrera,27,363.78,0.1,False,8839.85
+216,2024-08-03,Audífonos,Bucaramanga,Distribuidor,Diego Vargas,13,309.03,0.15,False,3414.78
+217,2024-08-04,Mouse,Barranquilla,Online,Camila Herrera,5,1089.68,0.09,False,4958.04
+218,2024-08-05,Teclado,Bucaramanga,Distribuidor,Camila Herrera,11,1680.66,0.22,False,14420.06
+219,2024-08-06,Smartwatch,Bogotá,Distribuidor,Valeria Torres,2,1481.99,0.22,False,2311.9
+220,2024-08-07,Cámara,Barranquilla,Online,Laura Jiménez,27,532.08,0.14,False,12354.9
+221,2024-08-08,Smartwatch,Barranquilla,Tienda Física,Valeria Torres,7,960.99,0.33,False,4507.04
+222,2024-08-09,Monitor,Bucaramanga,Distribuidor,Camila Herrera,19,486.01,0.17,False,7664.38
+223,2024-08-10,Impresora,Barranquilla,Online,Andrés Gómez,14,1137.18,0.32,False,10825.95
+224,2024-08-11,Cámara,Medellín,Tienda Física,Valeria Torres,2,1143.71,0.26,False,1692.69
+225,2024-08-12,Teclado,Cali,Distribuidor,Valeria Torres,17,184.58,0.33,True,2102.37
+226,2024-08-13,Smartwatch,Medellín,Online,Diego Vargas,23,1272.98,0.27,False,21373.33
+227,2024-08-14,Audífonos,Barranquilla,Online,Laura Jiménez,11,212.12,0.08,False,2146.65
+228,2024-08-15,Monitor,Cali,Online,Diego Vargas,26,75.25,0.24,False,1486.94
+229,2024-08-16,Tablet,Bogotá,Distribuidor,Diego Vargas,22,1713.16,0.08,False,34674.36
+230,2024-08-17,Tablet,Bucaramanga,Online,Valeria Torres,3,511.93,0.1,False,1382.21
+231,2024-08-18,Celular,Barranquilla,Online,Diego Vargas,24,940.9,0.08,True,20775.07
+232,2024-08-19,Impresora,Bucaramanga,Tienda Física,Valeria Torres,14,1877.16,0.17,False,21812.6
+233,2024-08-20,Cámara,Cali,Distribuidor,Camila Herrera,16,1258.32,0.15,False,17113.15
+234,2024-08-21,Teclado,Bucaramanga,Online,Diego Vargas,7,757.76,0.32,False,3606.94
+235,2024-08-22,Impresora,Barranquilla,Distribuidor,Andrés Gómez,11,1706.65,0.21,False,14830.79
+236,2024-08-23,Impresora,Barranquilla,Online,Diego Vargas,28,444.86,0.13,True,10836.79
+237,2024-08-24,Impresora,Medellín,Online,Valeria Torres,4,986.76,0.22,True,3078.69
+238,2024-08-25,Teclado,Bucaramanga,Tienda Física,Valeria Torres,23,1140.16,0.12,False,23076.84
+239,2024-08-26,Laptop,Bucaramanga,Online,Valeria Torres,8,1179.94,0.29,False,6702.06
+240,2024-08-27,Laptop,Medellín,Online,Valeria Torres,27,54.67,0.03,True,1431.81
+241,2024-08-28,Cámara,Medellín,Tienda Física,Camila Herrera,12,766.4,0.08,False,8461.06
+242,2024-08-29,Celular,Bucaramanga,Online,Camila Herrera,27,1039.49,0.03,False,27224.24
+243,2024-08-30,Laptop,Cali,Online,Camila Herrera,14,926.54,0.3,False,9080.09
+244,2024-08-31,Monitor,Cali,Tienda Física,Camila Herrera,7,1647.45,0.1,True,10378.94
+245,2024-09-01,Teclado,Bogotá,Online,Valeria Torres,15,1451.42,0.35,False,14151.35
+246,2024-09-02,Monitor,Medellín,Tienda Física,Andrés Gómez,18,1865.68,0.05,False,31903.13
+247,2024-09-03,Teclado,Cali,Distribuidor,Andrés Gómez,3,463.09,0.11,False,1236.45
+248,2024-09-04,Laptop,Barranquilla,Tienda Física,Camila Herrera,14,329.31,0.31,False,3181.13
+249,2024-09-05,Impresora,Barranquilla,Tienda Física,Diego Vargas,6,422.37,0.22,False,1976.69
+250,2024-09-06,Celular,Medellín,Online,Andrés Gómez,27,1319.63,0.17,False,29572.91
+251,2024-09-07,Audífonos,Barranquilla,Distribuidor,Diego Vargas,18,518.33,0.06,False,8770.14
+252,2024-09-08,Audífonos,Bogotá,Online,Diego Vargas,1,1335.85,0.28,True,961.81
+253,2024-09-09,Impresora,Barranquilla,Online,Diego Vargas,3,1373.04,0.12,False,3624.83
+254,2024-09-10,Impresora,Bogotá,Online,Andrés Gómez,3,181.03,0.26,False,401.89
+255,2024-09-11,Tablet,Bucaramanga,Online,Laura Jiménez,21,1485.22,0.2,True,24951.7
+256,2024-09-12,Mouse,Barranquilla,Online,Andrés Gómez,2,641.65,0.22,False,1000.97
+257,2024-09-13,Celular,Barranquilla,Distribuidor,Laura Jiménez,7,457.82,0.11,False,2852.22
+258,2024-09-14,Cámara,Cali,Tienda Física,Laura Jiménez,9,532.45,0.03,False,4648.29
+259,2024-09-15,Monitor,Bucaramanga,Distribuidor,Valeria Torres,11,1794.67,0.21,False,15595.68
+260,2024-09-16,Celular,Medellín,Tienda Física,Diego Vargas,8,1218.11,0.26,False,7211.21
+261,2024-09-17,Mouse,Medellín,Tienda Física,Diego Vargas,11,1306.43,0.2,False,11496.58
+262,2024-09-18,Teclado,Bogotá,Distribuidor,Camila Herrera,14,449.9,0.21,False,4975.89
+263,2024-09-19,Smartwatch,Barranquilla,Online,Valeria Torres,10,732.73,0.24,False,5568.75
+264,2024-09-20,Laptop,Barranquilla,Distribuidor,Laura Jiménez,1,1624.76,0.02,False,1592.26
+265,2024-09-21,Tablet,Barranquilla,Online,Laura Jiménez,9,693.55,0.08,False,5742.59
+266,2024-09-22,Celular,Cali,Online,Diego Vargas,21,1629.05,0.21,True,27025.94
+267,2024-09-23,Tablet,Medellín,Tienda Física,Andrés Gómez,18,415.97,0.05,False,7113.09
+268,2024-09-24,Impresora,Barranquilla,Distribuidor,Diego Vargas,19,1470.1,0.09,False,25418.03
+269,2024-09-25,Impresora,Bucaramanga,Online,Laura Jiménez,16,251.29,0.02,True,3940.23
+270,2024-09-26,Impresora,Medellín,Online,Diego Vargas,24,1648.32,0.08,False,36394.91
+271,2024-09-27,Teclado,Bucaramanga,Distribuidor,Andrés Gómez,12,1351.97,0.0,False,16223.64
+272,2024-09-28,Tablet,Bucaramanga,Online,Diego Vargas,10,1915.49,0.29,False,13599.98
+273,2024-09-29,Mouse,Bogotá,Tienda Física,Laura Jiménez,8,78.45,0.21,False,495.8
+274,2024-09-30,Tablet,Bogotá,Tienda Física,Camila Herrera,5,281.08,0.19,False,1138.37
+275,2024-10-01,Teclado,Cali,Distribuidor,Laura Jiménez,25,74.0,0.0,False,1850.0
+276,2024-10-02,Celular,Cali,Distribuidor,Diego Vargas,13,53.17,0.3,False,483.85
+277,2024-10-03,Teclado,Cali,Distribuidor,Camila Herrera,11,1695.18,0.0,False,18646.98
+278,2024-10-04,Smartwatch,Bogotá,Distribuidor,Laura Jiménez,19,1270.22,0.28,False,17376.61
+279,2024-10-05,Celular,Barranquilla,Tienda Física,Andrés Gómez,1,1294.65,0.08,False,1191.08
+280,2024-10-06,Tablet,Medellín,Tienda Física,Andrés Gómez,1,764.73,0.29,False,542.96
+281,2024-10-07,Smartwatch,Medellín,Tienda Física,Laura Jiménez,19,125.53,0.05,False,2265.82
+282,2024-10-08,Celular,Bogotá,Online,Andrés Gómez,12,873.75,0.19,False,8492.85
+283,2024-10-09,Teclado,Cali,Online,Camila Herrera,1,331.59,0.01,False,328.27
+284,2024-10-10,Mouse,Cali,Online,Valeria Torres,26,1870.5,0.19,False,39392.73
+285,2024-10-11,Celular,Medellín,Tienda Física,Laura Jiménez,8,1759.52,0.05,False,13372.35
+286,2024-10-12,Teclado,Barranquilla,Distribuidor,Diego Vargas,13,615.82,0.28,False,5764.08
+287,2024-10-13,Laptop,Barranquilla,Distribuidor,Laura Jiménez,21,54.31,0.08,False,1049.27
+288,2024-10-14,Impresora,Barranquilla,Online,Laura Jiménez,26,61.43,0.04,False,1533.29
+289,2024-10-15,Laptop,Bucaramanga,Online,Andrés Gómez,16,1067.1,0.01,False,16902.86
+290,2024-10-16,Tablet,Bogotá,Distribuidor,Andrés Gómez,1,1649.85,0.2,False,1319.88
+291,2024-10-17,Laptop,Medellín,Online,Diego Vargas,16,697.8,0.23,False,8596.9
+292,2024-10-18,Mouse,Bucaramanga,Online,Camila Herrera,12,1321.74,0.31,False,10944.01
+293,2024-10-19,Audífonos,Cali,Tienda Física,Camila Herrera,28,1718.81,0.02,False,47164.15
+294,2024-10-20,Impresora,Bogotá,Online,Laura Jiménez,18,1279.72,0.14,False,19810.07
+295,2024-10-21,Teclado,Bogotá,Tienda Física,Andrés Gómez,11,32.14,0.06,False,332.33
+296,2024-10-22,Celular,Barranquilla,Tienda Física,Camila Herrera,17,1111.26,0.18,False,15490.96
+297,2024-10-23,Laptop,Cali,Online,Valeria Torres,16,366.2,0.08,False,5390.46
+298,2024-10-24,Laptop,Bucaramanga,Tienda Física,Andrés Gómez,25,1604.13,0.14,False,34488.8
+299,2024-10-25,Audífonos,Medellín,Tienda Física,Camila Herrera,11,836.5,0.13,False,8005.3
+300,2024-10-26,Mouse,Bogotá,Tienda Física,Andrés Gómez,3,889.62,0.24,True,2028.33
+301,2024-10-27,Teclado,Bucaramanga,Distribuidor,Camila Herrera,15,621.74,0.26,False,6901.31
+302,2024-10-28,Smartwatch,Barranquilla,Online,Andrés Gómez,19,474.52,0.15,True,7663.5
+303,2024-10-29,Celular,Cali,Distribuidor,Laura Jiménez,5,336.71,0.09,False,1532.03
+304,2024-10-30,Teclado,Bogotá,Tienda Física,Camila Herrera,26,827.2,0.28,False,15485.18
+305,2024-10-31,Tablet,Bucaramanga,Tienda Física,Camila Herrera,12,1084.41,0.3,False,9109.04
+306,2024-11-01,Mouse,Bogotá,Distribuidor,Andrés Gómez,8,1803.86,0.19,False,11689.01
+307,2024-11-02,Monitor,Bogotá,Tienda Física,Laura Jiménez,13,815.85,0.09,False,9651.51
+308,2024-11-03,Impresora,Bogotá,Tienda Física,Laura Jiménez,20,657.07,0.27,False,9593.22
+309,2024-11-04,Celular,Medellín,Online,Diego Vargas,15,1639.99,0.12,True,21647.87
+310,2024-11-05,Mouse,Barranquilla,Tienda Física,Diego Vargas,9,1398.46,0.32,False,8558.58
+311,2024-11-06,Laptop,Bucaramanga,Distribuidor,Valeria Torres,17,247.27,0.09,True,3825.27
+312,2024-11-07,Tablet,Cali,Online,Diego Vargas,25,1420.52,0.33,False,23793.71
+313,2024-11-08,Celular,Bucaramanga,Tienda Física,Camila Herrera,14,1903.38,0.15,False,22650.22
+314,2024-11-09,Tablet,Barranquilla,Online,Andrés Gómez,29,1004.47,0.26,False,21555.93
+315,2024-11-10,Laptop,Bucaramanga,Distribuidor,Valeria Torres,1,991.36,0.07,False,921.96
+316,2024-11-11,Cámara,Barranquilla,Tienda Física,Diego Vargas,6,1452.68,0.22,False,6798.54
+317,2024-11-12,Teclado,Bogotá,Tienda Física,Diego Vargas,20,415.72,0.2,False,6651.52
+318,2024-11-13,Celular,Bucaramanga,Tienda Física,Valeria Torres,15,746.67,0.15,False,9520.04
+319,2024-11-14,Monitor,Medellín,Distribuidor,Diego Vargas,4,647.5,0.26,True,1916.6
+320,2024-11-15,Tablet,Medellín,Online,Diego Vargas,19,1991.85,0.29,False,26870.06
+321,2024-11-16,Audífonos,Bogotá,Distribuidor,Diego Vargas,15,340.0,0.25,True,3825.0
+322,2024-11-17,Audífonos,Cali,Tienda Física,Valeria Torres,1,364.43,0.28,False,262.39
+323,2024-11-18,Laptop,Bogotá,Distribuidor,Camila Herrera,15,932.6,0.26,True,10351.86
+324,2024-11-19,Audífonos,Barranquilla,Tienda Física,Valeria Torres,20,563.14,0.05,False,10699.66
+325,2024-11-20,Laptop,Bucaramanga,Distribuidor,Valeria Torres,1,1743.94,0.27,False,1273.08
+326,2024-11-21,Audífonos,Medellín,Tienda Física,Diego Vargas,18,884.22,0.07,False,14801.84
+327,2024-11-22,Impresora,Barranquilla,Distribuidor,Camila Herrera,29,1376.1,0.03,False,38709.69
+328,2024-11-23,Smartwatch,Bogotá,Distribuidor,Andrés Gómez,7,1640.04,0.32,False,7806.59
+329,2024-11-24,Laptop,Medellín,Online,Laura Jiménez,10,558.65,0.21,True,4413.34
+330,2024-11-25,Tablet,Barranquilla,Distribuidor,Andrés Gómez,3,1470.82,0.06,False,4147.71
+331,2024-11-26,Smartwatch,Bogotá,Distribuidor,Diego Vargas,2,810.21,0.22,False,1263.93
+332,2024-11-27,Impresora,Bogotá,Tienda Física,Andrés Gómez,25,523.95,0.12,False,11526.9
+333,2024-11-28,Laptop,Cali,Online,Camila Herrera,28,1782.42,0.05,False,47412.37
+334,2024-11-29,Teclado,Medellín,Distribuidor,Camila Herrera,21,1138.77,0.28,False,17218.2
+335,2024-11-30,Monitor,Barranquilla,Online,Diego Vargas,16,1002.74,0.04,False,15402.09
+336,2024-12-01,Mouse,Cali,Tienda Física,Camila Herrera,27,377.59,0.34,False,6728.65
+337,2024-12-02,Laptop,Bucaramanga,Online,Diego Vargas,27,1805.25,0.27,False,35581.48
+338,2024-12-03,Impresora,Cali,Tienda Física,Diego Vargas,21,1282.93,0.25,False,20206.15
+339,2024-12-04,Cámara,Bogotá,Online,Valeria Torres,15,1896.29,0.08,False,26168.8
+340,2024-12-05,Cámara,Bucaramanga,Tienda Física,Andrés Gómez,4,107.77,0.27,False,314.69
+341,2024-12-06,Celular,Bogotá,Tienda Física,Valeria Torres,27,250.92,0.01,False,6707.09
+342,2024-12-07,Laptop,Barranquilla,Online,Diego Vargas,4,1757.16,0.19,False,5693.2
+343,2024-12-08,Celular,Cali,Online,Laura Jiménez,11,914.49,0.11,False,8952.86
+344,2024-12-09,Impresora,Barranquilla,Tienda Física,Laura Jiménez,12,944.62,0.29,False,8048.16
+345,2024-12-10,Teclado,Cali,Tienda Física,Diego Vargas,25,462.1,0.27,False,8433.32
+346,2024-12-11,Tablet,Barranquilla,Tienda Física,Laura Jiménez,19,987.09,0.17,False,15566.41
+347,2024-12-12,Laptop,Bogotá,Tienda Física,Andrés Gómez,26,888.28,0.17,False,19169.08
+348,2024-12-13,Monitor,Bucaramanga,Distribuidor,Valeria Torres,3,1447.3,0.03,False,4211.64
+349,2024-12-14,Cámara,Bucaramanga,Online,Andrés Gómez,28,1278.26,0.08,False,32927.98
+350,2024-12-15,Monitor,Bucaramanga,Tienda Física,Camila Herrera,13,1601.99,0.25,False,15619.4
+351,2024-12-16,Smartwatch,Bogotá,Distribuidor,Valeria Torres,21,1570.54,0.02,False,32321.71
+352,2024-12-17,Tablet,Barranquilla,Tienda Física,Valeria Torres,12,854.6,0.28,False,7383.74
+353,2024-12-18,Teclado,Bogotá,Tienda Física,Andrés Gómez,25,616.94,0.34,False,10179.51
+354,2024-12-19,Celular,Barranquilla,Distribuidor,Valeria Torres,6,667.05,0.03,False,3882.23
+355,2024-12-20,Cámara,Barranquilla,Tienda Física,Diego Vargas,10,1980.08,0.16,False,16632.67
+356,2024-12-21,Laptop,Bogotá,Distribuidor,Andrés Gómez,3,830.28,0.2,False,1992.67
+357,2024-12-22,Smartwatch,Barranquilla,Distribuidor,Laura Jiménez,7,1515.82,0.28,False,7639.73
+358,2024-12-23,Celular,Bucaramanga,Tienda Física,Andrés Gómez,19,183.83,0.05,False,3318.13
+359,2024-12-24,Teclado,Barranquilla,Distribuidor,Laura Jiménez,20,870.54,0.13,False,15147.4
+360,2024-12-25,Cámara,Barranquilla,Distribuidor,Andrés Gómez,16,671.17,0.29,False,7624.49
+361,2024-12-26,Cámara,Medellín,Tienda Física,Diego Vargas,24,337.22,0.18,False,6636.49
+362,2024-12-27,Monitor,Bucaramanga,Tienda Física,Camila Herrera,7,67.27,0.06,True,442.64
+363,2024-12-28,Mouse,Bucaramanga,Tienda Física,Diego Vargas,23,518.86,0.3,False,8353.65
+364,2024-12-29,Cámara,Cali,Distribuidor,Diego Vargas,3,1590.78,0.33,False,3197.47
+365,2024-12-30,Impresora,Medellín,Online,Camila Herrera,8,609.03,0.26,False,3605.46
+366,2024-12-31,Smartwatch,Bucaramanga,Distribuidor,Laura Jiménez,22,1748.57,0.34,False,25389.24
+367,2025-01-01,Audífonos,Medellín,Distribuidor,Diego Vargas,28,1166.12,0.32,False,22202.92
+368,2025-01-02,Laptop,Bucaramanga,Distribuidor,Camila Herrera,28,1613.38,0.04,False,43367.65
+369,2025-01-03,Laptop,Cali,Distribuidor,Camila Herrera,14,1998.74,0.14,False,24064.83
+370,2025-01-04,Smartwatch,Bogotá,Tienda Física,Andrés Gómez,8,1288.32,0.21,False,8142.18
+371,2025-01-05,Smartwatch,Medellín,Distribuidor,Valeria Torres,4,694.94,0.26,False,2057.02
+372,2025-01-06,Teclado,Medellín,Distribuidor,Andrés Gómez,7,633.85,0.19,False,3593.93
+373,2025-01-07,Tablet,Cali,Online,Valeria Torres,15,1945.92,0.23,False,22475.38
+374,2025-01-08,Teclado,Barranquilla,Distribuidor,Diego Vargas,13,1434.84,0.04,False,17906.8
+375,2025-01-09,Teclado,Bogotá,Distribuidor,Andrés Gómez,19,1014.96,0.14,False,16584.45
+376,2025-01-10,Audífonos,Medellín,Tienda Física,Diego Vargas,5,443.87,0.0,False,2219.35
+377,2025-01-11,Audífonos,Bogotá,Online,Camila Herrera,15,989.99,0.23,True,11434.38
+378,2025-01-12,Impresora,Barranquilla,Online,Andrés Gómez,12,1529.04,0.06,False,17247.57
+379,2025-01-13,Tablet,Barranquilla,Distribuidor,Laura Jiménez,4,1949.94,0.14,False,6707.79
+380,2025-01-14,Celular,Cali,Online,Camila Herrera,15,1352.16,0.17,False,16834.39
+381,2025-01-15,Tablet,Barranquilla,Online,Laura Jiménez,28,68.78,0.23,False,1482.9
+382,2025-01-16,Smartwatch,Bucaramanga,Online,Laura Jiménez,19,941.04,0.27,True,13052.22
+383,2025-01-17,Tablet,Barranquilla,Distribuidor,Valeria Torres,23,1658.8,0.25,False,28614.3
+384,2025-01-18,Mouse,Barranquilla,Online,Laura Jiménez,15,1030.82,0.2,False,12369.84
+385,2025-01-19,Audífonos,Medellín,Online,Andrés Gómez,29,701.33,0.19,False,16474.24
+386,2025-01-20,Tablet,Cali,Online,Diego Vargas,11,1724.99,0.3,False,13282.42
+387,2025-01-21,Celular,Bucaramanga,Tienda Física,Laura Jiménez,26,1163.63,0.3,False,21178.07
+388,2025-01-22,Smartwatch,Bogotá,Tienda Física,Valeria Torres,18,1018.69,0.02,False,17969.69
+389,2025-01-23,Cámara,Cali,Distribuidor,Laura Jiménez,24,982.85,0.09,False,21465.44
+390,2025-01-24,Laptop,Bucaramanga,Tienda Física,Diego Vargas,10,1369.36,0.32,False,9311.65
+391,2025-01-25,Audífonos,Bucaramanga,Distribuidor,Andrés Gómez,16,921.46,0.21,False,11647.25
+392,2025-01-26,Tablet,Medellín,Tienda Física,Laura Jiménez,15,1142.9,0.05,False,16286.32
+393,2025-01-27,Impresora,Medellín,Distribuidor,Camila Herrera,26,591.26,0.02,False,15065.3
+394,2025-01-28,Smartwatch,Bucaramanga,Online,Diego Vargas,23,360.29,0.03,False,8038.07
+395,2025-01-29,Audífonos,Bogotá,Online,Laura Jiménez,7,1643.71,0.27,False,8399.36
+396,2025-01-30,Impresora,Bogotá,Online,Diego Vargas,28,652.01,0.08,False,16795.78
+397,2025-01-31,Smartwatch,Bogotá,Tienda Física,Diego Vargas,21,268.82,0.09,False,5137.15
+398,2025-02-01,Impresora,Barranquilla,Online,Diego Vargas,25,384.84,0.05,False,9139.95
+399,2025-02-02,Celular,Cali,Online,Diego Vargas,1,837.07,0.21,True,661.29
+400,2025-02-03,Monitor,Barranquilla,Distribuidor,Valeria Torres,8,585.15,0.18,False,3838.58
+401,2025-02-04,Impresora,Bucaramanga,Online,Valeria Torres,10,1396.26,0.1,False,12566.34
+402,2025-02-05,Monitor,Bogotá,Online,Valeria Torres,29,712.8,0.23,False,15916.82
+403,2025-02-06,Impresora,Bogotá,Tienda Física,Diego Vargas,7,1179.98,0.27,True,6029.7
+404,2025-02-07,Cámara,Bucaramanga,Tienda Física,Andrés Gómez,11,350.88,0.34,False,2547.39
+405,2025-02-08,Laptop,Cali,Tienda Física,Camila Herrera,11,290.44,0.17,False,2651.72
+406,2025-02-09,Audífonos,Bucaramanga,Online,Valeria Torres,18,1814.5,0.14,False,28088.46
+407,2025-02-10,Impresora,Bucaramanga,Distribuidor,Diego Vargas,22,1731.88,0.1,False,34291.22
+408,2025-02-11,Monitor,Bogotá,Tienda Física,Valeria Torres,18,1797.51,0.27,False,23619.28
+409,2025-02-12,Tablet,Bogotá,Distribuidor,Camila Herrera,27,996.99,0.34,False,17766.36
+410,2025-02-13,Impresora,Cali,Online,Valeria Torres,25,159.47,0.21,False,3149.53
+411,2025-02-14,Tablet,Medellín,Tienda Física,Diego Vargas,25,634.17,0.22,False,12366.31
+412,2025-02-15,Impresora,Bogotá,Distribuidor,Valeria Torres,20,1765.18,0.24,False,26830.74
+413,2025-02-16,Laptop,Medellín,Distribuidor,Andrés Gómez,25,856.56,0.15,False,18201.9
+414,2025-02-17,Impresora,Bogotá,Online,Diego Vargas,3,667.2,0.08,True,1841.47
+415,2025-02-18,Mouse,Cali,Tienda Física,Andrés Gómez,18,605.08,0.09,False,9911.21
+416,2025-02-19,Cámara,Barranquilla,Distribuidor,Laura Jiménez,3,1107.9,0.22,False,2592.49
+417,2025-02-20,Mouse,Bogotá,Distribuidor,Laura Jiménez,14,915.51,0.22,True,9997.37
+418,2025-02-21,Cámara,Bucaramanga,Distribuidor,Laura Jiménez,3,762.28,0.16,True,1920.95
+419,2025-02-22,Laptop,Cali,Tienda Física,Camila Herrera,15,857.63,0.02,True,12607.16
+420,2025-02-23,Teclado,Medellín,Distribuidor,Valeria Torres,12,548.0,0.31,False,4537.44
+421,2025-02-24,Tablet,Bogotá,Online,Valeria Torres,17,399.81,0.09,False,6185.06
+422,2025-02-25,Audífonos,Barranquilla,Online,Diego Vargas,22,419.66,0.2,False,7386.02
+423,2025-02-26,Monitor,Barranquilla,Tienda Física,Andrés Gómez,9,95.92,0.26,False,638.83
+424,2025-02-27,Tablet,Barranquilla,Online,Andrés Gómez,11,1892.3,0.06,False,19566.38
+425,2025-02-28,Tablet,Bogotá,Online,Diego Vargas,7,1913.88,0.17,False,11119.64
+426,2025-03-01,Smartwatch,Barranquilla,Distribuidor,Laura Jiménez,12,223.71,0.0,False,2684.52
+427,2025-03-02,Impresora,Bucaramanga,Tienda Física,Andrés Gómez,24,166.15,0.02,False,3907.85
+428,2025-03-03,Celular,Medellín,Online,Valeria Torres,27,844.21,0.09,False,20742.24
+429,2025-03-04,Cámara,Medellín,Tienda Física,Camila Herrera,22,1532.61,0.23,False,25962.41
+430,2025-03-05,Laptop,Bucaramanga,Distribuidor,Andrés Gómez,6,1655.55,0.31,False,6853.98
+431,2025-03-06,Celular,Medellín,Tienda Física,Valeria Torres,5,62.35,0.15,False,264.99
+432,2025-03-07,Monitor,Barranquilla,Distribuidor,Laura Jiménez,29,580.94,0.01,True,16678.79
+433,2025-03-08,Impresora,Barranquilla,Distribuidor,Camila Herrera,25,1079.91,0.1,False,24297.98
+434,2025-03-09,Audífonos,Bucaramanga,Online,Laura Jiménez,19,287.49,0.33,False,3659.75
+435,2025-03-10,Monitor,Cali,Tienda Física,Valeria Torres,9,1940.58,0.04,False,16766.61
+436,2025-03-11,Cámara,Bucaramanga,Distribuidor,Laura Jiménez,16,517.56,0.26,False,6127.91
+437,2025-03-12,Tablet,Bucaramanga,Tienda Física,Diego Vargas,29,1072.12,0.26,False,23007.7
+438,2025-03-13,Monitor,Bogotá,Distribuidor,Valeria Torres,5,237.11,0.21,False,936.58
+439,2025-03-14,Smartwatch,Bogotá,Tienda Física,Laura Jiménez,19,691.03,0.33,False,8796.81
+440,2025-03-15,Mouse,Cali,Tienda Física,Diego Vargas,24,263.76,0.22,False,4937.59
+441,2025-03-16,Audífonos,Bucaramanga,Distribuidor,Diego Vargas,12,1825.46,0.34,False,14457.64
+442,2025-03-17,Impresora,Bogotá,Distribuidor,Laura Jiménez,9,1900.73,0.29,False,12145.66
+443,2025-03-18,Impresora,Bucaramanga,Distribuidor,Laura Jiménez,11,1091.81,0.28,False,8647.14
+444,2025-03-19,Impresora,Cali,Online,Diego Vargas,13,712.7,0.33,False,6207.62
+445,2025-03-20,Monitor,Bogotá,Online,Valeria Torres,25,660.51,0.22,False,12879.94
+446,2025-03-21,Impresora,Bogotá,Tienda Física,Valeria Torres,23,1848.88,0.11,False,37846.57
+447,2025-03-22,Cámara,Medellín,Tienda Física,Laura Jiménez,23,1246.29,0.04,False,27518.08
+448,2025-03-23,Monitor,Barranquilla,Tienda Física,Camila Herrera,14,830.99,0.24,False,8841.73
+449,2025-03-24,Laptop,Bucaramanga,Distribuidor,Andrés Gómez,22,1547.67,0.18,False,27919.97
+450,2025-03-25,Impresora,Cali,Online,Laura Jiménez,2,1079.87,0.13,False,1878.97
+451,2025-03-26,Mouse,Bucaramanga,Tienda Física,Diego Vargas,15,451.58,0.33,False,4538.38
+452,2025-03-27,Tablet,Bucaramanga,Tienda Física,Camila Herrera,25,492.21,0.32,False,8367.57
+453,2025-03-28,Monitor,Bucaramanga,Tienda Física,Camila Herrera,20,564.9,0.13,False,9829.26
+454,2025-03-29,Celular,Cali,Online,Andrés Gómez,11,51.7,0.33,False,381.03
+455,2025-03-30,Celular,Barranquilla,Tienda Física,Andrés Gómez,16,526.51,0.15,False,7160.54
+456,2025-03-31,Impresora,Bucaramanga,Online,Camila Herrera,3,1230.43,0.07,False,3432.9
+457,2025-04-01,Audífonos,Bogotá,Distribuidor,Valeria Torres,14,1511.7,0.22,False,16507.76
+458,2025-04-02,Impresora,Medellín,Distribuidor,Diego Vargas,20,244.59,0.03,False,4745.05
+459,2025-04-03,Cámara,Barranquilla,Online,Laura Jiménez,25,1945.05,0.05,False,46194.94
+460,2025-04-04,Smartwatch,Barranquilla,Distribuidor,Camila Herrera,16,987.72,0.28,False,11378.53
+461,2025-04-05,Monitor,Bucaramanga,Online,Andrés Gómez,25,143.24,0.29,False,2542.51
+462,2025-04-06,Monitor,Cali,Distribuidor,Andrés Gómez,29,1881.15,0.08,False,50189.08
+463,2025-04-07,Monitor,Barranquilla,Tienda Física,Andrés Gómez,17,557.91,0.26,False,7018.51
+464,2025-04-08,Impresora,Medellín,Distribuidor,Camila Herrera,26,633.23,0.34,False,10866.23
+465,2025-04-09,Impresora,Medellín,Online,Andrés Gómez,12,929.51,0.34,True,7361.72
+466,2025-04-10,Smartwatch,Cali,Tienda Física,Valeria Torres,5,662.26,0.16,False,2781.49
+467,2025-04-11,Smartwatch,Bucaramanga,Tienda Física,Valeria Torres,27,371.8,0.3,False,7027.02
+468,2025-04-12,Monitor,Medellín,Online,Diego Vargas,4,271.72,0.19,False,880.37
+469,2025-04-13,Celular,Bogotá,Distribuidor,Diego Vargas,8,1029.18,0.2,False,6586.75
+470,2025-04-14,Teclado,Medellín,Distribuidor,Valeria Torres,27,159.65,0.08,False,3965.71
+471,2025-04-15,Teclado,Barranquilla,Online,Camila Herrera,14,1425.47,0.13,False,17362.22
+472,2025-04-16,Cámara,Bucaramanga,Online,Diego Vargas,20,696.93,0.08,False,12823.51
+473,2025-04-17,Smartwatch,Barranquilla,Distribuidor,Diego Vargas,19,1985.4,0.26,False,27914.72
+474,2025-04-18,Teclado,Medellín,Online,Camila Herrera,14,144.45,0.22,False,1577.39
+475,2025-04-19,Celular,Cali,Tienda Física,Diego Vargas,22,116.17,0.28,False,1840.13
+476,2025-04-20,Laptop,Barranquilla,Tienda Física,Laura Jiménez,3,518.58,0.22,False,1213.48
+477,2025-04-21,Mouse,Barranquilla,Tienda Física,Laura Jiménez,21,716.19,0.1,True,13535.99
+478,2025-04-22,Laptop,Cali,Tienda Física,Valeria Torres,25,1630.23,0.33,False,27306.35
+479,2025-04-23,Smartwatch,Bogotá,Online,Laura Jiménez,23,1662.75,0.23,False,29447.3
+480,2025-04-24,Monitor,Medellín,Tienda Física,Laura Jiménez,15,1452.7,0.17,False,18086.11
+481,2025-04-25,Mouse,Cali,Online,Camila Herrera,25,1654.94,0.27,False,30202.66
+482,2025-04-26,Monitor,Cali,Distribuidor,Diego Vargas,4,1462.12,0.09,True,5322.12
+483,2025-04-27,Teclado,Bucaramanga,Tienda Física,Valeria Torres,13,1748.55,0.28,False,16366.43
+484,2025-04-28,Tablet,Barranquilla,Online,Andrés Gómez,25,939.74,0.12,False,20674.28
+485,2025-04-29,Monitor,Medellín,Distribuidor,Andrés Gómez,19,567.35,0.03,False,10456.26
+486,2025-04-30,Mouse,Cali,Distribuidor,Camila Herrera,28,1266.33,0.27,False,25883.79
+487,2025-05-01,Audífonos,Medellín,Distribuidor,Valeria Torres,17,741.85,0.07,False,11728.65
+488,2025-05-02,Teclado,Barranquilla,Tienda Física,Laura Jiménez,10,153.93,0.23,False,1185.26
+489,2025-05-03,Audífonos,Barranquilla,Online,Laura Jiménez,25,1714.56,0.09,False,39006.24
+490,2025-05-04,Monitor,Medellín,Tienda Física,Andrés Gómez,19,1671.51,0.24,True,24136.6
+491,2025-05-05,Tablet,Bogotá,Online,Laura Jiménez,13,1002.7,0.04,False,12513.7
+492,2025-05-06,Audífonos,Bogotá,Online,Valeria Torres,12,942.71,0.22,False,8823.77
+493,2025-05-07,Monitor,Bucaramanga,Tienda Física,Laura Jiménez,3,255.36,0.07,False,712.45
+494,2025-05-08,Cámara,Medellín,Distribuidor,Andrés Gómez,19,269.28,0.18,False,4195.38
+495,2025-05-09,Laptop,Barranquilla,Tienda Física,Laura Jiménez,22,1599.56,0.31,False,24281.32
+496,2025-05-10,Mouse,Bucaramanga,Distribuidor,Valeria Torres,18,1710.94,0.17,False,25561.44
+497,2025-05-11,Cámara,Cali,Distribuidor,Valeria Torres,11,31.25,0.27,False,250.94
+498,2025-05-12,Cámara,Barranquilla,Online,Laura Jiménez,18,1572.12,0.05,False,26883.25
+499,2025-05-13,Teclado,Bucaramanga,Distribuidor,Diego Vargas,6,1081.22,0.23,False,4995.24
+500,2025-05-14,Mouse,Medellín,Distribuidor,Camila Herrera,14,885.96,0.05,False,11783.27
